@@ -1,0 +1,6 @@
+with the folder name being (auth)
+auth is not included in the routing if we do () this.
+
+this is done in order to group the similar routes and make them much more readable.
+
+another reason to group together is if we want custom header footer for all the pages with the group to have same header footer.
